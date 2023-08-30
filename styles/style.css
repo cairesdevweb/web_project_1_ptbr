@@ -72,6 +72,9 @@
   text-decoration: none;
   color: #2f80ed;
   display: flex;
+  position: absolute;
+  margin-top: 720px;
+  margin-left: 64px;
 }
 
 /*  aqui começa a section discript */
@@ -216,12 +219,13 @@
   width: 200px;
   color: white;
   margin-right: 0;
-  z-index: 2;
+  z-index: 21;
 }
 .kaufman__triangle {
   position: absolute;
-  right: -124px;
+  right: -100px;
   z-index: 0;
+  margin-top: 80px;
 }
 
 /*  aqui começa a section footer */
