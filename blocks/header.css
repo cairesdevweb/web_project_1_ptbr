@@ -9,7 +9,7 @@
   overflow: hidden;
 }
 
-.logo_place_header {
+.header__logo {
   width: 154px;
   height: 31px;
   position: absolute;
@@ -18,7 +18,7 @@
   z-index: 4;
 }
 
-.header__square-pic {
+.header__square {
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
