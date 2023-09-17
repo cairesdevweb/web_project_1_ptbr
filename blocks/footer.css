@@ -14,7 +14,7 @@
   width: 90%;
 }
 
-.footer__logo {
+.logo_place_footer {
   width: 183px;
   height: 35px;
 }
@@ -27,7 +27,7 @@
 }
 
 .footer__columns_content_copyright {
-  color: white;
+  color: #fff;
   flex-basis: 711px;
   position: relative;
 }
@@ -70,5 +70,5 @@
 .footer__social-icons {
   width: 16px;
   height: 16px;
-  margin: 0 10px 0;
+  margin: 0 10px 0 0;
 }

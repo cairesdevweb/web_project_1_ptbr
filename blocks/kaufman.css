@@ -1,5 +1,5 @@
 .kaufman {
-  background-color: #1f1f1f;
+  background-color: #000000;
   position: relative;
   overflow: hidden;
   display: flex;
@@ -9,10 +9,24 @@
 
 .section-title__theme_dark {
   color: #fff;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+  width: 60%;
+  text-align: center;
+  margin: 90px auto 20px;
+  z-index: 2;
 }
 
 .section-subtitle__theme_dark {
   color: #fff;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  width: 60%;
+  text-align: center;
+  margin: 90px auto 20px;
+  z-index: 2;
 }
 
 .table_theme_dark {
@@ -32,4 +46,5 @@
   z-index: 0;
   margin-top: 80px;
   animation: rotation 20s linear infinite;
+  z-index: 1;
 }
