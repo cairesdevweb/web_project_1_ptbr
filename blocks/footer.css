@@ -14,22 +14,15 @@
   width: 90%;
 }
 
-.logo_place_footer {
-  width: 183px;
-  height: 35px;
-}
-
-.footer__columns-heading {
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: bold;
-  color: #fff;
-}
-
 .footer__columns_content_copyright {
   color: #fff;
   flex-basis: 711px;
   position: relative;
+}
+
+.logo_place_footer {
+  width: 183px;
+  height: 35px;
 }
 
 .footer_author {
@@ -46,10 +39,11 @@
   row-gap: 20px;
 }
 
-.footer__columns_content_social {
-  display: flex;
-  flex-direction: column;
-  row-gap: 20px;
+.footer__columns-heading {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
 }
 
 .footer__list {
@@ -65,6 +59,12 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+}
+
+.footer__columns_content_social {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
 }
 
 .footer__social-icons {
